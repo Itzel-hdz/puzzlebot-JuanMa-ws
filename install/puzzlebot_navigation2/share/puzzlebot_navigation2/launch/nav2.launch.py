@@ -1,1 +1,0 @@
-/home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_navigation2/launch/nav2.launch.py

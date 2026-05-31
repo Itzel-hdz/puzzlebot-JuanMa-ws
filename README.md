@@ -66,7 +66,7 @@ Levanta:
 ```bash
 cd ~/puzzlebot_JuanMa_ws
 source install/setup.bash
-ros2 launch puzzlebot_navigation2 nav2_real.launch.xml
+ros2 launch puzzlebot_navigation2 nav2.launch.xml
 ```
 
 Levanta Nav2 (planner, controller, costmaps, recoveries) y RViz cargando el mapa `map_maze.yaml`.
@@ -85,9 +85,8 @@ src/puzzlebot_navigation2/
 │   ├── nav2_params.yaml        # parámetros afinados para el Puzzlebot
 │   └── slam_toolbox.yaml
 ├── launch/
-│   ├── nav2.launch.xml         # Nav2 + Gazebo (simulación)
-│   ├── nav2_real.launch.xml    # Nav2 sobre robot físico ← usar este
-│   ├── nav2_core.launch.xml    # núcleo Nav2 (lo invocan los wrappers)
+│   ├── nav2.launch.xml         # Nav2 sobre robot físico
+│   ├── nav2_core.launch.xml    # núcleo Nav2 (lo invoca nav2.launch.xml)
 │   ├── slam.launch.xml         # SLAM + Gazebo
 │   └── slam_core.launch.xml    # SLAM (mapping) + teleop
 ├── maps/

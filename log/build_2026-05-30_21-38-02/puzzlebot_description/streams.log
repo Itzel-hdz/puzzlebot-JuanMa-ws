@@ -1,0 +1,57 @@
+[0.009s] Invoking command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake /home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description
+[0.080s] -- The C compiler identification is GNU 11.4.0
+[0.135s] -- The CXX compiler identification is GNU 11.4.0
+[0.140s] -- Detecting C compiler ABI info
+[0.187s] -- Detecting C compiler ABI info - done
+[0.192s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.192s] -- Detecting C compile features
+[0.193s] -- Detecting C compile features - done
+[0.195s] -- Detecting CXX compiler ABI info
+[0.247s] -- Detecting CXX compiler ABI info - done
+[0.257s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.257s] -- Detecting CXX compile features
+[0.257s] -- Detecting CXX compile features - done
+[0.261s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.363s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.406s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.473s] -- Configuring done
+[0.475s] -- Generating done
+[0.477s] -- Build files have been written to: /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description
+[0.480s] Invoked command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake /home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description
+[0.481s] Invoking command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --build /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description -- -j12 -l12
+[0.509s] Invoked command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --build /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description -- -j12 -l12
+[0.515s] Invoking command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --install /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description
+[0.520s] -- Install configuration: ""
+[0.520s] -- Execute custom install script
+[0.521s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/mcr2_misc/macros.xacro
+[0.526s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/mcr2_misc/materials.xacro
+[0.532s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/mcr2_robots/jetson_lidar_ed/parameters_jetson_lidar_ed.xacro
+[0.538s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/mcr2_robots/puzzlebot_jetson_lidar_ed.xacro
+[0.544s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/mcr2_sensors/laser_camera_bracket.xacro
+[0.550s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/mcr2_sensors/lidar.xacro
+[0.555s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/puzzlebot.xacro
+[0.561s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/urdf/puzzlebot_jetson_lidar_base.urdf.xacro
+[0.567s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/rviz/puzzlebot_description.rviz
+[0.574s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/meshes/bases/Puzzlebot_Jetson_Lidar_Edition_Base.stl
+[0.580s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/meshes/misc/NVIDIA_Jetson.stl
+[0.585s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/meshes/sensors/Laser_Camera_Bracket.stl
+[0.590s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/meshes/sensors/RPLidar.stl
+[0.595s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/meshes/wheels/Puzzlebot_Caster_Wheel.stl
+[0.601s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/meshes/wheels/Puzzlebot_Wheel.stl
+[0.606s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/launch/puzzlebot_description.launch.xml
+[0.611s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/ament_index/resource_index/package_run_dependencies/puzzlebot_description
+[0.616s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/ament_index/resource_index/parent_prefix_path/puzzlebot_description
+[0.622s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/environment/ament_prefix_path.sh
+[0.628s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/environment/ament_prefix_path.dsv
+[0.633s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/environment/path.sh
+[0.639s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/environment/path.dsv
+[0.644s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/local_setup.bash
+[0.649s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/local_setup.sh
+[0.655s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/local_setup.zsh
+[0.660s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/local_setup.dsv
+[0.665s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/package.dsv
+[0.671s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/ament_index/resource_index/packages/puzzlebot_description
+[0.676s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/cmake/puzzlebot_descriptionConfig.cmake
+[0.681s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/cmake/puzzlebot_descriptionConfig-version.cmake
+[0.687s] -- Symlinking: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description/share/puzzlebot_description/package.xml
+[0.694s] Invoked command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --install /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description

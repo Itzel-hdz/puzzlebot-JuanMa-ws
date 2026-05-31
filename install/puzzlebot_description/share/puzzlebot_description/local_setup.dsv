@@ -1,2 +1,1 @@
-source;share/puzzlebot_description/environment/ament_prefix_path.sh
-source;share/puzzlebot_description/environment/path.sh
+/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_description/ament_cmake_environment_hooks/local_setup.dsv

@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating puzzlebot_real_robot.egg-info
+writing puzzlebot_real_robot.egg-info/PKG-INFO
+writing dependency_links to puzzlebot_real_robot.egg-info/dependency_links.txt
+writing entry points to puzzlebot_real_robot.egg-info/entry_points.txt
+writing requirements to puzzlebot_real_robot.egg-info/requires.txt
+writing top-level names to puzzlebot_real_robot.egg-info/top_level.txt
+writing manifest file 'puzzlebot_real_robot.egg-info/SOURCES.txt'
+reading manifest file 'puzzlebot_real_robot.egg-info/SOURCES.txt'
+writing manifest file 'puzzlebot_real_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot-real-robot.egg-link (link to .)
+Installing puzzlebot_joint_state_publisher script to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/puzzlebot_real_robot
+Installing puzzlebot_localization script to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/puzzlebot_real_robot
+
+Installed /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot
+running symlink_data
+creating /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/ament_index
+creating /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/ament_index/resource_index
+creating /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/ament_index/resource_index/packages
+symbolically linking /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/resource/puzzlebot_real_robot -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/ament_index/resource_index/packages
+symbolically linking /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/package.xml -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot
+creating /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/launch
+symbolically linking /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/launch/lidar.launch.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/launch
+symbolically linking /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/launch/robot.launch.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/launch
+creating /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/config
+symbolically linking /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/config/puzzlebot_params.yaml -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/config
+creating /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/urdf
+symbolically linking /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/urdf/puzzlebot.urdf -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/urdf
