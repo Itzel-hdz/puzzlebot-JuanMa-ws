@@ -1,0 +1,4 @@
+source;share/puzzlebot_navigation2/local_setup.bash
+source;share/puzzlebot_navigation2/local_setup.dsv
+source;share/puzzlebot_navigation2/local_setup.sh
+source;share/puzzlebot_navigation2/local_setup.zsh

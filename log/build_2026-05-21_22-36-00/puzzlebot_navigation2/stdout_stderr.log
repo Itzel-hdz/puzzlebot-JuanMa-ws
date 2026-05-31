@@ -1,0 +1,59 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2
+-- Install configuration: ""
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/slam_core.launch.xml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/slam.launch.xml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/nav2.launch.xml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/nav2_core.launch.xml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/nav2.launch.py
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/slam.launch.py
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/slam_toolbox.yaml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/mapper_params_online_async.yaml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/waffle.yaml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/nav2_params.yaml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/maps
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/maps/map_maze.pgm
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/maps/map_maze.yaml
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/rviz
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/rviz/slam.rviz
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/rviz/nav2.rviz
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/scripts
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/scripts/set_initial_pose.py
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/scripts/send_goal.py
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/ament_index/resource_index/package_run_dependencies/puzzlebot_navigation2
+-- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/ament_index/resource_index/parent_prefix_path/puzzlebot_navigation2
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/ament_prefix_path.sh
+-- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/path.sh
+-- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/path.dsv
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.bash
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.sh
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.zsh
+-- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.dsv
+-- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/package.dsv
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/ament_index/resource_index/packages/puzzlebot_navigation2
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/cmake/puzzlebot_navigation2Config.cmake
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/cmake/puzzlebot_navigation2Config-version.cmake
+-- Up-to-date: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/package.xml

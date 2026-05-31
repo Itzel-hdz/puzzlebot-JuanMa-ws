@@ -1,0 +1,65 @@
+[0.011s] Invoking command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2': AMENT_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description:/home/itzelh/puzzlebot_JuanMa_ws/install/sllidar_ros2:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake /home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2
+[0.068s] -- The C compiler identification is GNU 11.4.0
+[0.132s] -- The CXX compiler identification is GNU 11.4.0
+[0.140s] -- Detecting C compiler ABI info
+[0.211s] -- Detecting C compiler ABI info - done
+[0.220s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.220s] -- Detecting C compile features
+[0.221s] -- Detecting C compile features - done
+[0.224s] -- Detecting CXX compiler ABI info
+[0.310s] -- Detecting CXX compiler ABI info - done
+[0.319s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.319s] -- Detecting CXX compile features
+[0.319s] -- Detecting CXX compile features - done
+[0.323s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.473s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.576s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.662s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.662s] -- Added test 'lint_cmake' to check CMake code style
+[0.663s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.665s] -- Added test 'xmllint' to check XML markup files
+[0.666s] -- Configuring done
+[0.669s] -- Generating done
+[0.671s] -- Build files have been written to: /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2
+[0.675s] Invoked command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2' returned '0': AMENT_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description:/home/itzelh/puzzlebot_JuanMa_ws/install/sllidar_ros2:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake /home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_navigation2 -DCMAKE_INSTALL_PREFIX=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2
+[0.677s] Invoking command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2': AMENT_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description:/home/itzelh/puzzlebot_JuanMa_ws/install/sllidar_ros2:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --build /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2 -- -j12 -l12
+[0.719s] Invoked command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2' returned '0': AMENT_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description:/home/itzelh/puzzlebot_JuanMa_ws/install/sllidar_ros2:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --build /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2 -- -j12 -l12
+[0.720s] Invoking command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2': AMENT_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description:/home/itzelh/puzzlebot_JuanMa_ws/install/sllidar_ros2:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --install /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2
+[0.727s] -- Install configuration: ""
+[0.727s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch
+[0.728s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/slam_core.launch.xml
+[0.728s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/slam.launch.xml
+[0.728s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/nav2.launch.xml
+[0.728s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/nav2_core.launch.xml
+[0.728s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/nav2.launch.py
+[0.729s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/launch/slam.launch.py
+[0.729s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config
+[0.729s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/slam_toolbox.yaml
+[0.729s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/mapper_params_online_async.yaml
+[0.729s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/waffle.yaml
+[0.729s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/config/nav2_params.yaml
+[0.729s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/maps
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/maps/map_maze.pgm
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/maps/map_maze.yaml
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/rviz
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/rviz/slam.rviz
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/rviz/nav2.rviz
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/scripts
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/scripts/set_initial_pose.py
+[0.730s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/scripts/send_goal.py
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/ament_index/resource_index/package_run_dependencies/puzzlebot_navigation2
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/ament_index/resource_index/parent_prefix_path/puzzlebot_navigation2
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/ament_prefix_path.sh
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/ament_prefix_path.dsv
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/path.sh
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/environment/path.dsv
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.bash
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.sh
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.zsh
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/local_setup.dsv
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/package.dsv
+[0.731s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/ament_index/resource_index/packages/puzzlebot_navigation2
+[0.732s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/cmake/puzzlebot_navigation2Config.cmake
+[0.732s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/cmake/puzzlebot_navigation2Config-version.cmake
+[0.732s] -- Installing: /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_navigation2/share/puzzlebot_navigation2/package.xml
+[0.735s] Invoked command in '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2' returned '0': AMENT_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_gazebo:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_description:/home/itzelh/puzzlebot_JuanMa_ws/install/sllidar_ros2:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot:/home/itzelh/ros2_ws/install/mobile_robotics:/opt/ros/humble /usr/bin/cmake --install /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_navigation2

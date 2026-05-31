@@ -1,0 +1,1 @@
+/home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_navigation2/scripts/set_initial_pose.py

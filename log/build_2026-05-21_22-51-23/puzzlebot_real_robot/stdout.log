@@ -1,0 +1,31 @@
+running egg_info
+writing ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/entry_points.txt
+writing requirements to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/requires.txt
+writing top-level names to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/top_level.txt
+reading manifest file '../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying puzzlebot_real_robot/puzzlebot_joint_state_publisher.py -> /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build/lib/puzzlebot_real_robot
+copying puzzlebot_real_robot/puzzlebot_localization.py -> /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build/lib/puzzlebot_real_robot
+copying puzzlebot_real_robot/utils/__init__.py -> /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build/lib/puzzlebot_real_robot/utils
+running install
+running install_lib
+copying /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build/lib/puzzlebot_real_robot/utils/__init__.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot/utils
+copying /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build/lib/puzzlebot_real_robot/puzzlebot_joint_state_publisher.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot
+copying /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build/lib/puzzlebot_real_robot/puzzlebot_localization.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot
+byte-compiling /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot/utils/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot/puzzlebot_joint_state_publisher.py to puzzlebot_joint_state_publisher.cpython-310.pyc
+byte-compiling /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot/puzzlebot_localization.py to puzzlebot_localization.cpython-310.pyc
+running install_data
+copying launch/robot.launch.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/launch
+running install_egg_info
+removing '/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing puzzlebot_joint_state_publisher script to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/puzzlebot_real_robot
+Installing puzzlebot_localization script to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/puzzlebot_real_robot
+writing list of installed files to '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/install.log'

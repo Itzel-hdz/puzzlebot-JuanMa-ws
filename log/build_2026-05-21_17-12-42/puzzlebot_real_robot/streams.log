@@ -1,0 +1,25 @@
+[0.826s] Invoking command in '/home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_real_robot': PYTHONPATH=/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/puzzlebot_real_robot build --build-base /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build install --record /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/install.log --single-version-externally-managed install_data
+[1.092s] running egg_info
+[1.092s] writing ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/PKG-INFO
+[1.093s] writing dependency_links to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/dependency_links.txt
+[1.093s] writing entry points to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/entry_points.txt
+[1.093s] writing requirements to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/requires.txt
+[1.093s] writing top-level names to ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/top_level.txt
+[1.095s] reading manifest file '../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/SOURCES.txt'
+[1.096s] adding license file 'LICENSE'
+[1.097s] writing manifest file '../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info/SOURCES.txt'
+[1.097s] running build
+[1.097s] running build_py
+[1.097s] running install
+[1.097s] running install_lib
+[1.099s] running install_data
+[1.099s] copying launch/lidar.launch.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/launch
+[1.099s] copying launch/robot.launch.py -> /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/share/puzzlebot_real_robot/launch
+[1.099s] running install_egg_info
+[1.101s] removing '/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.101s] Copying ../../build/puzzlebot_real_robot/puzzlebot_real_robot.egg-info to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages/puzzlebot_real_robot-0.0.0-py3.10.egg-info
+[1.102s] running install_scripts
+[1.126s] Installing puzzlebot_joint_state_publisher script to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/puzzlebot_real_robot
+[1.126s] Installing puzzlebot_localization script to /home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/puzzlebot_real_robot
+[1.126s] writing list of installed files to '/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/install.log'
+[1.153s] Invoked command in '/home/itzelh/puzzlebot_JuanMa_ws/src/puzzlebot_real_robot' returned '0': PYTHONPATH=/home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/itzelh/puzzlebot_JuanMa_ws/install/puzzlebot_real_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/puzzlebot_real_robot build --build-base /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/build install --record /home/itzelh/puzzlebot_JuanMa_ws/build/puzzlebot_real_robot/install.log --single-version-externally-managed install_data
